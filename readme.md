@@ -1,5 +1,5 @@
 # Deterministic Finite Automaton (DFA) Minimizer 
-### Based on Hopcroft Algorithm
+### Based on Hopcroft's Algorithm
 
 This is a Python 3 script made to minimize a Deterministic Finite Automaton (DFA) using Hopcroft's Algorithm. This was made as an assignment for my university.
 
