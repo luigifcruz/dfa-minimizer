@@ -39,10 +39,10 @@ You can find examples of DFA on both `example.py` files.
 
 ```bash
 $ python3 example1.py
-$ python3 example1.py
+$ python3 example2.py
 ```
 
-#### Declaring a Automata
+#### Declaring an Automata
 ``` python
 dfa.add_state(1) # Adds a new state.
 dfa.add_start_state(0) # Add the initial state.
